@@ -9,4 +9,10 @@ public class Practice1 {
 		System.out.println("hello");
 	}
 
+	
+	@Test
+	public void modify()
+	{
+		System.out.println("hhhh");
+	}
 }
